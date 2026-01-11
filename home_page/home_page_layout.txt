@@ -12,4 +12,4 @@
 <h1>MARK YOUR ATTENDENCE</h1>
 <p>The most efficient way to track your attendence</p> 
 
-<h2>Get Started</h2>
+<h2>signup / login</h2>
