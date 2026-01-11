@@ -1,0 +1,15 @@
+//***
+    * h1 --> heading 1 - title
+    * h2 --> heading 2 - next subheading
+    * h3 --> heading 3
+    * h4 --> heading 4
+    * h5 --> heading 5
+    * h6 --> heading 6
+    * p --> paragraph text
+// ***
+
+
+<h1>MARK YOUR ATTENDENCE</h1>
+<p>The most efficient way to track your attendence</p> 
+
+<h2>Get Started</h2>
