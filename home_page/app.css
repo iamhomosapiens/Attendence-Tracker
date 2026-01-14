@@ -24,5 +24,15 @@ a{
 }
 
 label{
-    font-size: 16px;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    display: block;
+}
+
+form{
+    text-align: center;
+    border: 2px solid;
+    border-radius: 40px;
+    border-block-color: #808080;
 }
