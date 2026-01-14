@@ -3,14 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="app.css">
     <title>Attendence: Signup / login</title>
 </head>
 <body>
     <form action = "user_data", method="post">
-        <input type="text", name = "Name"> <br>
-        <input type="email", name = "E-mail"><br>
-        <input type="password", name = "password"><br>
-        <input type="button", value = "Submit">
+        <label for="Name">Name</label>
+        <input id = "Name", type="text", name = "Name", placeholder = "E.g, Chetan or BIHARI", required> <br><br>
+        <label for="email">E-mail</label>
+        <input id = "email" type="email", name = "E-mail", placeholder = "i'm_bihari@nithish.com", required><br><br>
+        <label for="password">Password</label>
+        <input id = "password" type="password", name = "password", minlength="4", maxlength="15" required><br><br>
+        <button type = "submit">Submit</button>
+        <button type = "reset">Reset</button>
     </form>
 </body>
 </html>

@@ -1,12 +1,28 @@
 h1{
+    text-align: center;
+    font-weight: 900;
     color : black;
-    font-size: 60px;
-    font-family:'Franklin Gothic Medium'
+    font-size: 65px;
+    font-family:"Franklin Gothic Medium"
 }
 
 p{
     color : black;
-    font-size: 16px;
+    font-weight: 100;
+    font-size: 20px;
     font-family: "Times New Roman";
     font-display: auto;
+    text-decoration: none;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+label{
+    font-size: 16px;
 }
